@@ -1,0 +1,8 @@
+'Effects/LaserBeam.afx.txt' {0,0} flip
+'Effects/StreetLight.afx.txt' {0,0} none
+'Effects/StreetLight.afx.txt' {100,2600} none
+'Effects/StreetLight.afx.txt' {500,2600} flip
+'Effects/GlowingArtefact.afx.txt' {615,2700} flip
+'Effects/GlowingArtefact.afx.txt' {9615,2300} flip
+'Effects/Fireflies.afx.txt' {615,2300} flip
+'Effects/FireflyFlower.afx.txt' {815,2300} flip

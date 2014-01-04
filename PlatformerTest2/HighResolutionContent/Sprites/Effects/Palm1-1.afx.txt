@@ -1,0 +1,7 @@
+effect_name	Sprites/Effects/Palm1-1
+frames_per_second	5
+looping	true
+#
+# effect_name		путь к текстуре
+# frames_per_second	кадры
+# looping		повторяется ли анимация

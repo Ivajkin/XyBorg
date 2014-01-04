@@ -1,0 +1,7 @@
+effect_name	Sprites/Effects/GlowingArtefact
+frames_per_second	25
+looping	true
+#
+# effect_name		путь к текстуре
+# frames_per_second	кадры
+# looping		повторяется ли анимация

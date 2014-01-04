@@ -1,0 +1,9 @@
+effect_name	Sprites/Effects/DistortionSmallNormalMap
+frames_per_second	1
+looping	true
+normal_map true
+#
+# effect_name		путь к текстуре
+# frames_per_second	кадры
+# looping		повторяется ли анимация
+# normal_map		карта искажения или нет (если нет можно эту строчку пропустить)

@@ -1,0 +1,2 @@
+'Effects/LaserBeam.afx.txt' {0,0} flip
+'Effects/StreetLight.afx.txt' {0,0} none

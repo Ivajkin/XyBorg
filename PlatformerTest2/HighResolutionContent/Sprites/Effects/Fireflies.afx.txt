@@ -1,0 +1,7 @@
+effect_name	Sprites/Effects/Fireflies
+frames_per_second	13
+looping	true
+#
+# effect_name		путь к текстуре
+# frames_per_second	кадры
+# looping		повторяется ли анимация
